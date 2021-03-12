@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## ⚡ Hi, I'm Davi 
+## ⚡ Hi, I'm Davi Rodrigues
 
 I am 17 years old, finished high school and I am studying Information Systems - Bacharelado. I had contact with programming since I was 13 years old, python being the first programming language, besides having ease and determination to learn subjects related to technology in general.
 
