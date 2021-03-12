@@ -32,3 +32,11 @@ I am 17 years old, finished high school and I am studying Information Systems - 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
 
 </p>
+
+<br>
+
+## ⭐ GitHub Stats
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=daviue&show_icons=true&theme=default&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daviue&theme=dafault&line_height=27">
+</p>
