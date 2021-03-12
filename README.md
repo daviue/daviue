@@ -4,6 +4,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=daviue.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/daviue?style=social)
 
-/*⚡ Hi, I'm Davi */
+## ⚡ Hi, I'm Davi 
 
 /* I am 17 years old, finished high school and I am studying Information Systems - Bacharelado. I had contact with programming since I was 13 years old, python being the first programming language, besides having ease and determination to learn subjects related to technology in general. */
