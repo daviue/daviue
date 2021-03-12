@@ -10,7 +10,7 @@
 
 ## ⚡ Hi, I'm Davi Rodrigues
 
-I am 17 years old, finished high school and I am studying Information Systems - Bacharelado. I had contact with programming since I was 13 years old, python being the first programming language, besides having ease and determination to learn subjects related to technology in general.
+I am 17 years old, finished high school and I am studying Information Systems - Bachelor. I had contact with programming since I was 13 years old, python being the first programming language, besides having ease and determination to learn subjects related to technology in general.
 
 <br>
 
