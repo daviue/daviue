@@ -10,7 +10,7 @@
 
 ## ⚡ Hi, I'm Davi Rodrigues
 
-I'm 20 years old and currently focused on Web development, I'm studying for a bachelor's degree in Information Systems. I had my first contact with programming 5 years ago and I find it easy to learn technologies in general.
+I'm 20 years old and currently focused on Web development, I'm studying for a bachelor's degree in Information Systems. I had my first contact with programming 6 years ago and I find it easy to learn technologies in general.
 
 <br>
 
