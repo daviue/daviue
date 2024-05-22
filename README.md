@@ -6,9 +6,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/daviue?style=social)
 <br>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## ⚡ Hi, I'm Davi Rodrigues
+
+<img align="right" alt="GIF" height="145px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 I'm 21 years old and currently focused on Web development, I'm studying for a bachelor's degree in Information Systems. I had my first contact with programming 6 years ago and I find it easy to learn technologies in general.
 
@@ -38,6 +38,9 @@ I'm 21 years old and currently focused on Web development, I'm studying for a ba
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" height="25"/>
 
 </p>
+
+<br>
+<img align="right" alt="GIF" width="100%" src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" />
 
 <br>
 
